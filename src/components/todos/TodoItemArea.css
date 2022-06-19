@@ -1,0 +1,22 @@
+.todo-item-area
+{
+    margin-bottom:5px;
+    border: 1px solid black;
+    width:600px;
+}
+.todo-item-area-title{
+
+}
+
+.todo-item-buttons{
+    text-align:right;
+}
+
+.todo-item-button{
+    cursor: pointer;
+    border: 1px solid #40005d;
+    background-color: #40005d;
+    color: white;
+    margin-right: 1rem;
+    margin-bottom:3px;
+}
